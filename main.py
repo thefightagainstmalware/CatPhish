@@ -14,7 +14,7 @@ TO_FORMAT = "{my_tweet_id},{replier_user_id},{replier_tweet_id},{found_content},
 
 
 def write_to_file(
-    my_tweet_id, replier_user_id, replier_tweet_id, found_content, found_content_type
+    my_tweet_id, replier_user_id, replier_tweet_id, found_content, found_content_type, filehandle
 ):
     filehandle.write(
         TO_FORMAT.format(
@@ -34,7 +34,6 @@ def resolve_url(url: str) -> str:
     return req.url
 
 
-filehandle = open("data.csv", "a")
 load_dotenv()
 
 messages = [
@@ -68,6 +67,7 @@ while True:
     except AttributeError:
         continue
     for _ in range(180):
+        handle = open('data.csv', 'a')
         if maxid != 0:
             b = v2api.search_recent_tweets(
                 query="conversation_id:{}".format(conversation_id),
@@ -104,6 +104,7 @@ while True:
                     )
                 elif re.match(EMAIL_RE, url):
                     write_to_file(tweet_id, tweet.author_id, tweet.id, url, "email")
+        handle.close()
         time.sleep(20)
     idx += 1
     idx %= len(messages)
