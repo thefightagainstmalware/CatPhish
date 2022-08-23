@@ -9,6 +9,7 @@ GOOGLE_FORM_RE = re.compile(
     r"https:\/\/docs\.google\.com\/forms\/d\/e\/[A-Za-z0-9_-]{56}\/\S+"
 )
 INSTAGRAM_USER_RE = re.compile(r"(https?:\/\/)?www\.instagram\.com\/\w+?\/?")
+INSTAGRAM_USER_MENTION_RE = re.compile(r"@\S+")
 EMAIL_RE = re.compile(r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)")
 TO_FORMAT = "{my_tweet_id},{replier_user_id},{replier_tweet_id},{found_content},{found_content_type}\n"
 
@@ -104,6 +105,8 @@ while True:
                     )
                 elif re.match(EMAIL_RE, url):
                     write_to_file(tweet_id, tweet.author_id, tweet.id, url, "email")
+            for match in re.finditer(INSTAGRAM_USER_MENTION_RE):
+                write_to_file(tweet_id, tweet.author_id, tweet.id, match.group(0), "instagram_user_mention")
         handle.close()
         time.sleep(20)
     idx += 1
