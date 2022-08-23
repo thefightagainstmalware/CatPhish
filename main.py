@@ -93,20 +93,24 @@ while True:
                 url = resolve_url(match.group(0))
                 if re.match(TWITTER_DM_RE, url):
                     write_to_file(
-                        tweet_id, tweet.author_id, tweet.id, url, "twitter_dm"
+                        tweet_id, tweet.author_id, tweet.id, url, "twitter_dm", handle
                     )
                 elif re.match(GOOGLE_FORM_RE, url):
                     write_to_file(
-                        tweet_id, tweet.author_id, tweet.id, url, "google_form"
+                        tweet_id, tweet.author_id, tweet.id, url, "google_form", handle
                     )
                 elif re.match(INSTAGRAM_USER_RE, url):
                     write_to_file(
-                        tweet_id, tweet.author_id, tweet.id, url, "instagram_user"
+                        tweet_id, tweet.author_id, tweet.id, url, "instagram_user", handle
                     )
                 elif re.match(EMAIL_RE, url):
+<<<<<<< Updated upstream
                     write_to_file(tweet_id, tweet.author_id, tweet.id, url, "email")
             for match in re.finditer(INSTAGRAM_USER_MENTION_RE):
                 write_to_file(tweet_id, tweet.author_id, tweet.id, match.group(0), "instagram_user_mention")
+=======
+                    write_to_file(tweet_id, tweet.author_id, tweet.id, url, "email", handle)
+>>>>>>> Stashed changes
         handle.close()
         time.sleep(20)
     idx += 1
