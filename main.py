@@ -41,6 +41,8 @@ messages = [
     "Help! I can't login to my Coinbase wallet. ",
     "i can't find the funds in my coinbase wallet! ",
     "help i can't find my nfts in coinbase wallet. ",
+    "Help all the funds are gone in my metamask wallet!",
+    "I can't login to my youtube channel help!"
 ]
 
 auth = tweepy.OAuth1UserHandler(
@@ -104,13 +106,9 @@ while True:
                         tweet_id, tweet.author_id, tweet.id, url, "instagram_user", handle
                     )
                 elif re.match(EMAIL_RE, url):
-<<<<<<< Updated upstream
-                    write_to_file(tweet_id, tweet.author_id, tweet.id, url, "email")
-            for match in re.finditer(INSTAGRAM_USER_MENTION_RE):
-                write_to_file(tweet_id, tweet.author_id, tweet.id, match.group(0), "instagram_user_mention")
-=======
                     write_to_file(tweet_id, tweet.author_id, tweet.id, url, "email", handle)
->>>>>>> Stashed changes
+            for match in re.finditer(INSTAGRAM_USER_MENTION_RE):
+                write_to_file(tweet_id, tweet.author_id, tweet.id, match.group(0), "instagram_user_mention", handle)
         handle.close()
         time.sleep(20)
     idx += 1
