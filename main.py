@@ -10,7 +10,7 @@ GOOGLE_FORM_RE = re.compile(
 )
 INSTAGRAM_USER_RE = re.compile(r"(https?:\/\/)?www\.instagram\.com\/\w+?\/?")
 INSTAGRAM_USER_MENTION_RE = re.compile(r"@\S+")
-EMAIL_RE = re.compile(r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)")
+EMAIL_RE = re.compile(r"([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)")
 TO_FORMAT = "{my_tweet_id},{replier_user_id},{replier_tweet_id},{found_content},{found_content_type}\n"
 
 
