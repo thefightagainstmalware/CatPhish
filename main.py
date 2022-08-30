@@ -105,9 +105,9 @@ while True:
                     write_to_file(
                         tweet_id, tweet.author_id, tweet.id, url, "instagram_user", handle
                     )
-                elif re.match(EMAIL_RE, url):
-                    write_to_file(tweet_id, tweet.author_id, tweet.id, url, "email", handle)
-            for match in re.finditer(INSTAGRAM_USER_MENTION_RE):
+            for match in re.finditer(EMAIL_RE, tweet.text):
+                write_to_file(tweet_id, tweet.author_id, tweet.id, match.group(0), "email", handle)
+            for match in re.finditer(INSTAGRAM_USER_MENTION_RE, tweet.text):
                 write_to_file(tweet_id, tweet.author_id, tweet.id, match.group(0), "instagram_user_mention", handle)
         handle.close()
         time.sleep(20)
