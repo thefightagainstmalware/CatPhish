@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/pi/catphish
+cd $(realpath $0)
 git pull
 /usr/bin/git add data.csv
 /usr/bin/git commit -m "Automated commit"
