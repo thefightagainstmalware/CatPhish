@@ -22,7 +22,7 @@ def auto():
     with open('data.csv', newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='|')
         for row in reader:
-            if row[3] in done or not GOOGLE_FORM_RE.match(row[3]):
+            if row[3] in done or not GOOGLE_FORM_RE.match(row[3]) or row[5] == "no":
                 continue
             else:
                 print(row[3])

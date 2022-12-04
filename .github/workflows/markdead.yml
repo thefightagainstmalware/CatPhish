@@ -16,4 +16,4 @@ jobs:
       - name: Check for dead Google Forms
         run: cd $GITHUB_WORKSPACE && python markdead.py -a
       - name: Push results
-        run: cd $GITHUB_WORKSPACE && git config user.name "Dead Google Forms Remover" && git config user.email "noreply_gitbot@malwarefight.gq" && git add data.csv && git commit -m "Remove dead Google Forms" && git remote set-url origin "https://__token__:${{ secrets.GITHUB_TOKEN }}@github.com/thefightagainstmalware/CatPhish" && git push -u origin main
+        run: cd $GITHUB_WORKSPACE && git config user.name "Dead Google Forms Remover" && git config user.email "noreply_gitbot@malwarefight.gq" && git add data.csv && git commit -m "Remove dead Google Forms" && git remote set-url origin "https://__token__:${{ secrets.GITHUB_TOKEN }}@github.com/thefightagainstmalware/CatPhish" && git push -u origin main || exit 0
