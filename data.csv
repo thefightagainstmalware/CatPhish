@@ -135,7 +135,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1563183413934231552,185103108,1563183453075820549,https://docs.google.com/forms/d/e/1FAIpQLSdXGsYru3DtAmnO2RZ9rrdp6rDks9GNOI7y2JQV5i0tR5onVw/viewform?usp=send_form,google_form,no
 1563183550349709312,185103108,1563183631425994754,https://docs.google.com/forms/d/e/1FAIpQLSdXGsYru3DtAmnO2RZ9rrdp6rDks9GNOI7y2JQV5i0tR5onVw/viewform?usp=send_form,google_form,no
 1563202262385627136,3151377884,1563202928957014020,https://docs.google.com/forms/d/e/1FAIpQLSeDikVUDPl7-H7faPRWZ6hvnoefbRs_Y4gFZVh7yVQXUbr94Q/viewform?usp=send_form,google_form,no
-1563259047523934211,1023236951716048896,1563259618259640321,https://docs.google.com/forms/d/e/1FAIpQLScIfjB4Py59ECgA9kStGOO47iqfsqSEzuYyiIAnQ78vcDI2zA/viewform?usp=send_form,google_form,yes
+1563259047523934211,1023236951716048896,1563259618259640321,https://docs.google.com/forms/d/e/1FAIpQLScIfjB4Py59ECgA9kStGOO47iqfsqSEzuYyiIAnQ78vcDI2zA/viewform?usp=send_form,google_form,no
 1563300527655436289,50483245,1563314137081737216,https://docs.google.com/forms/d/e/1FAIpQLSe7fzjbLlqATVQxAw17BqYQKj0atxd_kX1LCpNBvUDK12DIYA/viewform?usp=send_form,google_form,no
 1563353995158007808,3141346305,1563354211894538240,https://docs.google.com/forms/d/e/1FAIpQLSdp-hn3zU2dsZ0JniLwOUnvH4KlgzdOWQx2i3YA4296M3Y_Ag/viewform?usp=send_form,google_form,no
 1563354302298480643,1556759760002682880,1563354496478040066,https://docs.google.com/forms/d/e/1FAIpQLSd8sYe9BVfWuUAEKN9uYyvYxpJZbL-1iVqd65_XUCidY_LRyA/viewform?usp=pp_url,google_form,no
@@ -1147,7 +1147,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1580510423929225216,2414162011,1580510472264384512,https://docs.google.com/forms/d/e/1FAIpQLSclbzJGJNsVXx5090E2EpuK4d2iqpEhAAm0ELZ5O9UWTtrlAA/viewform?usp=send_form,google_form,yes
 1580526709337886720,2799133170,1580526881119444992,https://docs.google.com/forms/d/e/1FAIpQLScsM-I0pn3mf9smH4GBLMny2tf0nFeZ70hAoMkpPIwir_qEZA/viewform?usp=send_form,google_form,yes
 1580542995614425089,1570986624002965504,1580543152070750208,metamaskapp.assistant@gmail.com,email,yes
-1580542995614425089,2842939131,1580543234505248770,https://docs.google.com/forms/d/e/1FAIpQLScIfjB4Py59ECgA9kStGOO47iqfsqSEzuYyiIAnQ78vcDI2zA/viewform?usp=send_form,google_form,yes
+1580542995614425089,2842939131,1580543234505248770,https://docs.google.com/forms/d/e/1FAIpQLScIfjB4Py59ECgA9kStGOO47iqfsqSEzuYyiIAnQ78vcDI2zA/viewform?usp=send_form,google_form,no
 1580542995614425089,1578909656172339202,1580543275731075073,app.metamaskio@gmail.com,email,yes
 1580559290032885760,2172788622,1580559711832707072,@PandaNinjas3017,instagram_user_mention,yes
 1580591841174749184,4212843739,1580594468113088520,https://docs.google.com/forms/d/e/1FAIpQLScLUbUGdD8cIPg7EJZIFcTZ2dkloZ4PPBKaOypDVD7z2Cls9g/viewform?usp=send_form,google_form,yes
@@ -1615,7 +1615,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1591103664600805377,1584993444795064322,1591104304139862016,metamaskapp.feedbacks@gmail.com,email,yes
 1591136172159426560,1587206978065121281,1591136810360373248,https://docs.google.com/forms/d/e/1FAIpQLScbfQNVfVp2dZAFY2d1kj85R3-jY4tGstpgiHMvgKuQvdetpg/viewform?usp=send_form,google_form,yes
 1591152473221304339,1226203857161728002,1591162944272105472,@elonmusk,instagram_user_mention,yes
-1591185002125037568,67286932,1591185145176158209,https://docs.google.com/forms/d/e/1FAIpQLScIfjB4Py59ECgA9kStGOO47iqfsqSEzuYyiIAnQ78vcDI2zA/viewform?usp=send_form,google_form,yes
+1591185002125037568,67286932,1591185145176158209,https://docs.google.com/forms/d/e/1FAIpQLScIfjB4Py59ECgA9kStGOO47iqfsqSEzuYyiIAnQ78vcDI2zA/viewform?usp=send_form,google_form,no
 1591266303121178672,1575396501366472704,1591266395794583552,metamaskapp.walletcomplian@gmail.com,email,yes
 1591298831999799298,802433804,1591299285861154817,https://docs.google.com/forms/d/e/1FAIpQLSeregT0erDDf0CaC0ygxBK_iQK-y7hixBew8JwmUAFUiAmVog/viewform?usp=send_form,google_form,yes
 1591347615831969793,258237544,1591347870556311552,live.metamask.response@gmail.com,email,yes
