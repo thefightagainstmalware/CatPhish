@@ -2063,7 +2063,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1602148468830748675,1587563337159786497,1602148767259627520,https://docs.google.com/forms/d/e/1FAIpQLScvl2b1AkfQ6iDO0UOG1z8q8PA_4QwxQYKtzcuKdTEoWbwrNA/viewform?usp=pp_url,google_form,yes
 1602213322027327490,1593365949448687616,1602213387278188544,https://docs.google.com/forms/d/e/1FAIpQLSdhEGbWO9-ix0gOUYv8sZst9BV-P7k1NwiE0rjJtuqL3SmFRQ/viewform?usp=send_form,google_form,yes
 1602375728275783681,1563266415565553665,1602376465475141632,https://docs.google.com/forms/d/e/1FAIpQLScoBHGqGvDtdG0YRXTVC36AHYk34oRwv4pmXhy-YqZOvoId7g/viewform?usp=send_form,google_form,yes
-1602440688351715330,1564051479257907201,1602442051060219909,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,yes
+1602440688351715330,1564051479257907201,1602442051060219909,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,no
 1602554451616727042,1167800070324064256,1602554631204311041,metamaskapp.deskteams@gmail.com,email,yes
 1602554451616727042,1167800070324064256,1602554730613559296,metamaskapp.deskteams@gmail.com,email,yes
 1602635721558446080,1593031935856705536,1602636908235980800,metamasklive.oi@gmail.com,email,yes
@@ -2116,7 +2116,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1604376962704760832,599899952,1604383949018435586,https://docs.google.com/forms/d/e/1FAIpQLSdFvMpo8j4Cc0onJv_Do7QLwN9-NehGciDoAIYF-fcXXMXTuQ/viewform?usp=send_form,google_form,yes
 1604392985222856704,599899952,1604393091791785985,https://docs.google.com/forms/d/e/1FAIpQLSdFvMpo8j4Cc0onJv_Do7QLwN9-NehGciDoAIYF-fcXXMXTuQ/viewform?usp=send_form,google_form,yes
 1604463682947276800,3306990863,1604470288183279617,Metamaskwallet.helpio@gmail.com,email,yes
-1604511718020890624,1603982851443249155,1604523429956186114,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,yes
+1604511718020890624,1603982851443249155,1604523429956186114,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,no
 1604623883721736194,1597754727378391042,1604625758504239104,live.metamask.response@gmail.com,email,yes
 1604703997146943488,1599802845582458880,1604704880152743936,metamaskapp.feedbacks@gmail.com,email,yes
 1604703997146943488,1592375559237115904,1604704841607286784,metamaskapp.feedbacks@gmail.com,email,yes
@@ -2127,7 +2127,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1604863546419970049,1526303857810317313,1604873949862678532,https://docs.google.com/forms/d/e/1FAIpQLSdngQsVnRZocrpcsHSg93t0LMjvkcKZKG1YMGo5d9eS5l2VEg/viewform?usp=send_form,google_form,yes
 1604895559743148032,4159461929,1604895692652220418,metamaskhelpdesk.office@gmail.com,email,yes
 1604959596006854661,839435017,1604959704848904192,https://docs.google.com/forms/d/e/1FAIpQLSfKTiV5KF5VWhuymobKFe6Y158WvdnUFbEGbWC1uyzbZVD0kw/viewform?usp=send_form,google_form,yes
-1605039701064392704,1569224054476881920,1605040196352737280,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,yes
+1605039701064392704,1569224054476881920,1605040196352737280,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,no
 1605175335875710977,980642185329692672,1605176630368169984,https://docs.google.com/forms/d/e/1FAIpQLScLUbUGdD8cIPg7EJZIFcTZ2dkloZ4PPBKaOypDVD7z2Cls9g/viewform?usp=send_form,google_form,yes
 1605319473019363332,1234843051140448257,1605319534709248002,https://docs.google.com/forms/d/e/1FAIpQLSe7MJ9-9xyOBN9LVBqIEPYBxsPfoYTnM4B1VY1IffZ7PRIvxg/viewform?usp=send_form,google_form,yes
 1605351654458531840,1603111062731104261,1605351828266184704,Metamaskwallets.team@gmail.com,email,yes
@@ -2155,7 +2155,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1606365358859886592,1599464629532594182,1606365815225327616,https://www.instagram.com/hacker_rhodes_reef/?igshid=YmMyMTA2M2Y=,instagram_user,yes
 1606413468000731136,875319553,1606413980465041410,https://www.instagram.com/cyberpunk_pro/,instagram_user,yes
 1606413468000731136,1597866180013850624,1606416423772897281,https://docs.google.com/forms/d/e/1FAIpQLSf9rbv6oO9V5Vl5xSp9sre1_MlrAdDAyAXWtT4Et32D3XSAnA/viewform?usp=send_form,google_form,yes
-1606477620551483393,1569224054476881920,1606491080538603520,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,yes
+1606477620551483393,1569224054476881920,1606491080538603520,https://docs.google.com/forms/d/e/1FAIpQLSdEJPRvxvrBLHvAIyXVv1G5xtdkQrHhUm1UhmF9Vfa2q7s9oA/viewform?usp=send_form,google_form,no
 1606493669804179458,4159461929,1606494018023481344,metamaskhelpdesk.office@gmail.com,email,yes
 1606493669804179458,4159461929,1606494050068176896,metamaskhelpdesk.office@gmail.com,email,yes
 1606525752991780864,1520122259469389826,1606532162060165121,https://www.instagram.com/platinium_cybertech/?igshid=YmMyMTA2M2Y=,instagram_user,yes
