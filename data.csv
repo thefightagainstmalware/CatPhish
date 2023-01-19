@@ -330,7 +330,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1565543710594519041,1559864006596255750,1565544305489575941,metamask.deskapp@gmail.com,email,yes
 1565543710594519041,1559951268030091265,1565544526445428737,metamask.mailcontact@gmail.com,email,yes
 1565543710594519041,1552558753488277513,1565546249834663936,@PandaNinjas3017,instagram_user_mention,yes
-1565620327010357248,848049536446717954,1565620368496332800,https://docs.google.com/forms/d/e/1FAIpQLScrkRhtuDIM2sIp1uDBms-pRGD0J9J57ouSQvnzLQtsaPBMIw/viewform?usp=send_form,google_form,yes
+1565620327010357248,848049536446717954,1565620368496332800,https://docs.google.com/forms/d/e/1FAIpQLScrkRhtuDIM2sIp1uDBms-pRGD0J9J57ouSQvnzLQtsaPBMIw/viewform?usp=send_form,google_form,no
 1565670222660440064,2795806355,1565682024974876673,https://docs.google.com/forms/d/e/1FAIpQLSerOn1nv89J0-rPrlDWwlPGs8bGcD5POWCrXrRmSiEicsTZuw/viewform?usp=send_form,google_form,no
 1565685548244578305,1559141772676464646,1565685696123338752,metamaskapp.complain@gmail.com,email,yes
 1565685548244578305,1559913896923648000,1565685676145778688,desk.metamask.io@gmail.com,email,yes
@@ -953,7 +953,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1577669372218327044,1566324627646947328,1577669961434255363,https://docs.google.com/forms/d/e/1FAIpQLSd9WorAkckXn2Lp9hGpy6Z4bRwglc0Ay4AkAITnsprSALBzmQ/viewform?usp=send_form,google_form,yes
 1577669372218327044,1573935769600786433,1577676356044873733,metamaskapp.feedbacks@gmail.com,email,yes
 1577669372218327044,1573936936347131904,1577676325011210243,metamaakapp.feedbacks@gmail.com,email,yes
-1577750885492572164,4873318475,1577751012697423893,https://docs.google.com/forms/d/e/1FAIpQLScrkRhtuDIM2sIp1uDBms-pRGD0J9J57ouSQvnzLQtsaPBMIw/viewform?usp=send_form,google_form,yes
+1577750885492572164,4873318475,1577751012697423893,https://docs.google.com/forms/d/e/1FAIpQLScrkRhtuDIM2sIp1uDBms-pRGD0J9J57ouSQvnzLQtsaPBMIw/viewform?usp=send_form,google_form,no
 1577750885492572164,1566324627646947328,1577751083996385280,https://docs.google.com/forms/d/e/1FAIpQLSd9WorAkckXn2Lp9hGpy6Z4bRwglc0Ay4AkAITnsprSALBzmQ/viewform?usp=send_form,google_form,yes
 1577783386093109248,79680378,1577783509757870080,https://docs.google.com/forms/d/e/1FAIpQLSdsNsnxLlj-5S3TZnURCF-Dt0YYyFfUSIAJweW5E5LRrEYvmg/viewform?usp=send_form,google_form,yes
 1577815901138812928,1566324627646947328,1577816067065479169,https://docs.google.com/forms/d/e/1FAIpQLSdsNsnxLlj-5S3TZnURCF-Dt0YYyFfUSIAJweW5E5LRrEYvmg/viewform?usp=send_form,google_form,yes
@@ -987,7 +987,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1578182809377820672,1574825685331447821,1578183471453057024,@PandaNinjas3017,instagram_user_mention,yes
 1578199057503232001,920205816199897088,1578199235735920640,https://docs.google.com/forms/d/e/1FAIpQLSf09j8SczOGH_01W1EDIV81WZFltK3PyI7NjqY0c150k42CyQ/viewform?usp=send_form,google_form,yes
 1578231569772412929,1570979058766458882,1578231642426073089,metamaskapp.feedback@gmail.com,email,yes
-1578231569772412929,4873318475,1578231597211717632,https://docs.google.com/forms/d/e/1FAIpQLScrkRhtuDIM2sIp1uDBms-pRGD0J9J57ouSQvnzLQtsaPBMIw/viewform?usp=send_form,google_form,yes
+1578231569772412929,4873318475,1578231597211717632,https://docs.google.com/forms/d/e/1FAIpQLScrkRhtuDIM2sIp1uDBms-pRGD0J9J57ouSQvnzLQtsaPBMIw/viewform?usp=send_form,google_form,no
 1578231569772412929,1557201389998247936,1578231942780174337,metamask.deskhelps@gmail.com,email,yes
 1578264073426411521,79680378,1578264127914577920,https://docs.google.com/forms/d/e/1FAIpQLSdsNsnxLlj-5S3TZnURCF-Dt0YYyFfUSIAJweW5E5LRrEYvmg/viewform?usp=send_form,google_form,yes
 1578312777038532608,57058934,1578312852258971649,metamask.mailcontact@gmail.com,email,yes
