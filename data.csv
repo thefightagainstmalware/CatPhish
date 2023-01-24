@@ -766,8 +766,8 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1574470040388263936,344373449,1574470318407782417,https://docs.google.com/forms/d/e/1FAIpQLSfg8IXKm0FHWNsQ6ZmDqAgZpktKdtvSH3JzGBIJRinm0yO1Wg/viewform?usp=send_form,google_form,yes
 1574503804669755392,1574134359153692672,1574506686148235264,https://www.instagram.com/jeansonhacker/?igshid=YmMyMTA2M2Y%3D,instagram_user,yes
 1574550574770655232,1574134359153692672,1574558186283073544,@PandaNinjas3017,instagram_user_mention,yes
-1574582908370698247,732508035436797953,1574587397471354903,https://docs.google.com/forms/d/e/1FAIpQLSe48hDncLT7Y3S8488zaj3UcgoPEJArTrVyuTTe2QKxpkudAA/viewform?usp=send_form,google_form,yes
-1574582908370698247,70400025,1574593041192591360,https://docs.google.com/forms/d/e/1FAIpQLSe48hDncLT7Y3S8488zaj3UcgoPEJArTrVyuTTe2QKxpkudAA/viewform?usp=send_form,google_form,yes
+1574582908370698247,732508035436797953,1574587397471354903,https://docs.google.com/forms/d/e/1FAIpQLSe48hDncLT7Y3S8488zaj3UcgoPEJArTrVyuTTe2QKxpkudAA/viewform?usp=send_form,google_form,no
+1574582908370698247,70400025,1574593041192591360,https://docs.google.com/forms/d/e/1FAIpQLSe48hDncLT7Y3S8488zaj3UcgoPEJArTrVyuTTe2QKxpkudAA/viewform?usp=send_form,google_form,no
 1574599098983915520,1567631017657131008,1574599182933008397,Metamaskcentre.io@gmail.com,email,yes
 1574631409033125892,1574554088368390145,1574642825777782785,@PandaNinjas3017,instagram_user_mention,yes
 1574631409033125892,1573652430310490112,1574647351108849664,@PandaNinjas3017,instagram_user_mention,yes
@@ -790,7 +790,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1574923074578825221,1567584443212128263,1574923407275470848,metamask.zendeskhelps@gmail.com,email,yes
 1574923074578825221,1567584443212128263,1574923369719349248,metamask.zendeskhelps@gmail.com,email,yes
 1574945088005865472,1571045929024724992,1574945313491599360,https://docs.google.com/forms/d/e/1FAIpQLScTvnEGHAWuzN4q4oaoUb1ISHBHhhqpEHaYCME3jtby_KJjOA/viewform?usp=send_form,google_form,no
-1574977452300009472,70400025,1574981476612915200,https://docs.google.com/forms/d/e/1FAIpQLSe48hDncLT7Y3S8488zaj3UcgoPEJArTrVyuTTe2QKxpkudAA/viewform?usp=send_form,google_form,yes
+1574977452300009472,70400025,1574981476612915200,https://docs.google.com/forms/d/e/1FAIpQLSe48hDncLT7Y3S8488zaj3UcgoPEJArTrVyuTTe2QKxpkudAA/viewform?usp=send_form,google_form,no
 1575042527325044736,1572258573979189253,1575042704018284544,metamaskapp.deskactive@gmail.com,email,yes
 1575042527325044736,1570866529876512768,1575043185428267010,metamasksuport.directapp@gmail.com,email,yes
 1575042527325044736,1571569521290350596,1575044365088538625,metamaskteam.app@gmail.com,email,yes
