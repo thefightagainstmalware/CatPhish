@@ -1,8 +1,6 @@
 import csv, re, argparse, requests
 
-GOOGLE_FORM_RE = re.compile(
-    r"https:\/\/docs\.google\.com\/forms\/d\/e\/[A-Za-z0-9_-]{56}\/\S+"
-)
+RE_LIST = [re.compile(r"https:\/\/docs\.google\.com\/forms\/d\/e\/[A-Za-z0-9_-]{56}\/\S+"), re.compile(r"(https?:\/\/)?www\.instagram\.com\/\w+?\/?")]
 
 def markdead(dead: "list[str]") -> None:
     data = []
@@ -22,7 +20,7 @@ def auto():
     with open('data.csv', newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='|')
         for row in reader:
-            if row[3] in done or not GOOGLE_FORM_RE.match(row[3]) or row[5] == "no":
+            if row[3] in done or not any(map(lambda a: a.match(row[3]), RE_LIST)) or row[5] == "no":
                 continue
             else:
                 print(row[3])
