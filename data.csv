@@ -208,7 +208,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1564077131025358848,1519396739287072770,1564077184062525440,https://docs.google.com/forms/d/e/1FAIpQLSeI05eziV5K7mQhMqJM-T1z-GN8yW1Vq7_fmRPJkEdeIJqe6g/viewform?usp=send_form,google_form,no
 1564153200118140928,1268644559472537600,1564155883877187584,https://docs.google.com/forms/d/e/1FAIpQLSc5WheQLnIF43QSSVkBF-p5bOqJpLdqzdptYr2dWtcxG0gu6A/viewform?usp=send_form,google_form,no
 1564186276722446336,1268644559472537600,1564192916192600064,https://docs.google.com/forms/d/e/1FAIpQLSc5WheQLnIF43QSSVkBF-p5bOqJpLdqzdptYr2dWtcxG0gu6A/viewform?usp=send_form,google_form,no
-1564193166575562753,51992920,1564193324357062656,https://docs.google.com/forms/d/e/1FAIpQLSemMJ3OBsL0jXtLQ-eXDUg-c6ZwBrozjW8o9qE3SV_BNdcYcQ/viewform?usp=send_form,google_form,yes
+1564193166575562753,51992920,1564193324357062656,https://docs.google.com/forms/d/e/1FAIpQLSemMJ3OBsL0jXtLQ-eXDUg-c6ZwBrozjW8o9qE3SV_BNdcYcQ/viewform?usp=send_form,google_form,no
 1564211901294186496,1538618770188533760,1564212002276474882,https://docs.google.com/forms/d/e/1FAIpQLSeNjmUQQLA4hdYyhb790mTO2bGBZ3QKIE96ev_UsYjUnv4hyQ/viewform?usp=send_form,google_form,no
 1564212121784594432,1538618770188533760,1564212272200912897,https://docs.google.com/forms/d/e/1FAIpQLSeNjmUQQLA4hdYyhb790mTO2bGBZ3QKIE96ev_UsYjUnv4hyQ/viewform?usp=send_form,google_form,no
 1564234303424237568,1023512323426865152,1564234382730305538,https://docs.google.com/forms/d/e/1FAIpQLScsM-I0pn3mf9smH4GBLMny2tf0nFeZ70hAoMkpPIwir_qEZA/viewform?usp=send_form,google_form,yes
@@ -1534,7 +1534,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1589218955809460224,1585836827201650688,1589219580345716738,live.metamaskapp@gmail.com,email,yes
 1589218955809460224,1586833899791024134,1589220794403786753,desk.metamaskhelp@gmail.com,email,yes
 1589267318483390465,1488361928,1589267557248163840,https://docs.google.com/forms/d/e/1FAIpQLSfzZM5uQ16acJB1rcMAV9ykQaEm8EoxoUtlFOE4iaiWAgUbNQ/viewform?usp=send_form,google_form,yes
-1589347988169756672,700738681913487360,1589348065038958592,https://docs.google.com/forms/d/e/1FAIpQLSemMJ3OBsL0jXtLQ-eXDUg-c6ZwBrozjW8o9qE3SV_BNdcYcQ/viewform?usp=sf_link,google_form,yes
+1589347988169756672,700738681913487360,1589348065038958592,https://docs.google.com/forms/d/e/1FAIpQLSemMJ3OBsL0jXtLQ-eXDUg-c6ZwBrozjW8o9qE3SV_BNdcYcQ/viewform?usp=sf_link,google_form,no
 1589364379232911365,1568582364372107267,1589366193206755329,https://www.instagram.com/addey_cybertech/?igshid=YmMyMTA2M2Y%3D,instagram_user,yes
 1589396668331474945,2452247100,1589396847009107968,https://docs.google.com/forms/d/e/1FAIpQLScs2-FBPDPI5D13rwUDlNsPtPB6Av3-IGMU5CEn9hfr9sP2Ag/viewform?usp=send_form,google_form,no
 1589396668331474945,543116577,1589397992104398848,mm.restore.io@gmail.com,email,yes
@@ -2520,7 +2520,7 @@ my_tweet_id,replier_user_id,replier_tweet_id,found_content,found_content_type,al
 1647985904928305152,1632630415885213696,1647986042710917120,io.metamaskwalletdesk@gmail.com,email,yes
 1647985904928305152,1637899706436145154,1647986008292483074,io.metamaskwalletdesk@gmail.com,email,yes
 1648016658752233473,356076431,1648029610964131842,https://www.instagram.com/wenditecc7/,instagram_user,yes
-1648032029156704256,469964057,1648032362830131215,https://docs.google.com/forms/d/e/1FAIpQLSemMJ3OBsL0jXtLQ-eXDUg-c6ZwBrozjW8o9qE3SV_BNdcYcQ/viewform?usp=sf_link,google_form,yes
+1648032029156704256,469964057,1648032362830131215,https://docs.google.com/forms/d/e/1FAIpQLSemMJ3OBsL0jXtLQ-eXDUg-c6ZwBrozjW8o9qE3SV_BNdcYcQ/viewform?usp=sf_link,google_form,no
 1648078631099580416,1625321232059990024,1648079010092425217,hello.metamaskcommunityhelp@gmail.com,email,yes
 1648079191177588738,1858203062,1648079497478930433,https://docs.google.com/forms/d/e/1FAIpQLScAGV8D3cfM5XVf4H2vurwscu39vJkQAx52mYaVTas_tNZiHw/viewform?usp=send_form,google_form,no
 1648079191177588738,115072475,1648084868637630467,@PandaNinjas3017,instagram_user_mention,yes
